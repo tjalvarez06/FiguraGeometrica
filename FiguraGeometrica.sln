@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguraGeometrica", "FiguraGeometrica\FiguraGeometrica.csproj", "{0653F6E1-7583-423C-92C7-F1EA9A0CAAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0653F6E1-7583-423C-92C7-F1EA9A0CAAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0653F6E1-7583-423C-92C7-F1EA9A0CAAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0653F6E1-7583-423C-92C7-F1EA9A0CAAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0653F6E1-7583-423C-92C7-F1EA9A0CAAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76630917-8DA4-4154-A7F5-9A31E9FDB936}
+	EndGlobalSection
+EndGlobal
